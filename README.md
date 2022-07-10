@@ -1,18 +1,17 @@
 # Global-Superstore-Data-Analysis-in-PowerBI
 
-In this project i have analyzed an open-source dataset (Global Superstore Dataset) and build two interactive dashboards one is for sales analysis and another is for profit analysis which shows all the top products, countries, regions, customers in terms of sales and profit.
-and in this project i have followed a professional approach to build an interactive and impactful dashboard.
+In this project, I have analyzed an open-source dataset (Global Superstore Dataset) and build two interactive dashboards one is for sales analysis and another is for profit analysis which shows all the top products, countries, regions, and customers in terms of sales and profit. 
 
-1. Data Transformation using Power Query
-2. Applied DAX concept to find additional information
-3. Data Modeling
-4. Build Dashboard
-5. Assign Roles
-6. Publish report on Power BI service (Online Server)
-7. Configured Schedule Refresh
-8. Applied RLS
+and in this project, I have followed a professional approach to building an interactive and impactful dashboard.
 
-
+Data Transformation using Power Query
+Applied DAX concept to find additional information
+Data Modeling
+Build Dashboard
+Assign Roles
+Publish report on Power BI service (Online Server)
+Configured Schedule Refresh
+Applied RLS
 Here's a quick snapshot of my work-
 
 ![image](https://user-images.githubusercontent.com/64730394/176134101-e2824586-02df-4f0a-92d5-96a25ebb6639.png)
